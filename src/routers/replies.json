@@ -1,0 +1,34 @@
+{
+    "messages": [
+        {
+            "check": "hi",
+            "reply": "Hey! 😊"
+        },
+        {
+            "check": "miss you",
+            "reply": "Miss you too! ❤️"
+        },
+        {
+            "check": "love you",
+            "reply": "Love you too! 💖"
+        },
+        {
+            "check": "good morning",
+            "reply": "Good morning! Have a great day!"
+        },
+        {
+            "check": "good evening",
+            "reply": "Good evening!"
+        },
+        {
+            "check": "good night",
+            "reply": "Goodnight! Sweet dreams! 😴"
+        }
+    ],
+    "default": [
+        "hmm",
+        "acha",
+        "theek hai",
+        "Sorry janu, i am working on somthing , i will talk to you later , please excuse me , love you my girl"
+    ]
+}

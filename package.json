@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-interceptor",
+  "version": "1.0.0",
+  "description": "WhatsApp Interceptor",
+  "main": "index.js",
+  "scripts": {
+    "dev": "env-cmd .env nodemon src/index.js",
+    "start": "env-cmd .env node src/index.js"
+  },
+  "author": "Christopher Gomes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "canvas": "^2.11.2",
+    "express": "^4.17.3",
+    "qrcode": "^1.5.3",
+    "uuid": "^9.0.1",
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "devDependencies": {
+    "env-cmd": "^8.0.2",
+    "nodemon": "^2.0.15"
+  }
+}
